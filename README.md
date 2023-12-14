@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.pinimg.com/236x/cc/72/a8/cc72a8ed2f389ece2d478d9e791b08ba.jpg"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshjha" /> </p>
+<img src="https://i.pinimg.com/236x/a6/c4/c6/a6c4c61602150a878a74858a0282dc68.jpg"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshjha" alt="divyanshjha" /></a> </p>
 
@@ -29,3 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshjha&show_icons=true&locale=en&layout=compact" alt="divyanshjha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshjha&" alt="divyanshjha" /></p>
+
