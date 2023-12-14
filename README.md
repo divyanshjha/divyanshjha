@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src=""https://i.pinimg.com/236x/a6/c4/c6/a6c4c61602150a878a74858a0282dc68.jpg/>
+<img src="https://i.pinimg.com/236x/a6/c4/c6/a6c4c61602150a878a74858a0282dc68.jpg"/>
 
 - 🌱 I’m currently learning about full stack ****
 
