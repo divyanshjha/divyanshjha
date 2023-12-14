@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fen.pimg.jp%2F107%2F029%2F305%2F1%2F107029305.jpg&tbnid=kpx9OybCuKlwzM&vet=12ahUKEwj5x5XXtY-DAxX3q2MGHeT_BL4QMyhkegUIARDpAg..i&imgrefurl=https%3A%2F%2Fwww.pixtastock.com%2Fillustration%2F107029305&docid=DoObW6hb5cDZQM&w=450&h=318&q=cartoon%20coding%20pictures&ved=2ahUKEwj5x5XXtY-DAxX3q2MGHeT_BL4QMyhkegUIARDpAg"/>
+<img src="https://i.pinimg.com/236x/91/77/97/91779771e0c323b769b5468319754d3a.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshjha" /> </p>
 
