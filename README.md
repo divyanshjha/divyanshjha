@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divyansh Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.pinimg.com/236x/a6/c4/c6/a6c4c61602150a878a74858a0282dc68.jpg" style = "position : centre"/>
+<img src="https://i.pinimg.com/236x/a6/c4/c6/a6c4c61602150a878a74858a0282dc68.jpg" style = "position : centre;"/>
 
-- 🌱 I’m currently learning about full stack ****
+- 🌱 I’m currently learning about the full stack. 
 
 - 📫 How to reach me **divyansh250004@gmail.com**
 
