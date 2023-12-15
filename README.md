@@ -1,4 +1,4 @@
-<img align = "right" alt="Image" width="100%" src="https://i.pinimg.com/564x/f0/0a/9f/f00a9f08ecc375dd4f909836240aed70.jpg" />
+<img align = "right" alt="Image" width="100%" src="https://i.pinimg.com/564x/f0/0a/9f/f00a9f08ecc375dd4f909836240aed70.jpg"/>
 <h1 align="center">Hi 👋, I'm Divyansh Jha</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align = "right" alt="Image" src="https://i.pinimg.com/236x/a6/c4/c6/a6c4c61602150a878a74858a0282dc68.jpg" />
